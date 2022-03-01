@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloodie tragedie, or Romish maske. Acted by fiue Iesuites, and sixteene young Germaine maides. Presented in a church (within the dukedome of Bauaria) at the high altar, in the citie of Miniken in Germanie, in March . 1607. / Translated out of the High-Dutch, and printed at Nuremberg by Iohn Lankenberger.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00220</idno>
+            <idno type="STC">STC 14526.5</idno>
+            <idno type="STC">ESTC S93353</idno>
+            <idno type="EEBO-CITATION">52633306</idno>
+            <idno type="OCLC">ocm 52633306</idno>
+            <idno type="VID">174728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174728)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2120:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloodie tragedie, or Romish maske. Acted by fiue Iesuites, and sixteene young Germaine maides. Presented in a church (within the dukedome of Bauaria) at the high altar, in the citie of Miniken in Germanie, in March . 1607. / Translated out of the High-Dutch, and printed at Nuremberg by Iohn Lankenberger.</title>
+               </titleStmt>
+               <extent>[27] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.E. and are to be sold at the little shop in the Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Black letter, initial.</note>
+                  <note>Signatures: (first three leaves unmarked) B-C⁴, D³ (last leaf blank).</note>
+                  <note>Imperfect: print show-through, with loss of text.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174728:1"/>
+            <pb facs="tcp:174728:1" rendition="simple:additions"/>
+            <p>A BLOODY Tragedie, OR Romiſh Maske. Acted by fiue <hi>Ieſuites,</hi> and ſixteene <hi>young Germaine Maides.</hi> Preſented in a Church (within the Dukedome of Bauaria) at the high Altar, in the Citie of Miniken in Germanie, in March. 1607.</p>
+            <p>Tranſlated out of the High-Dutch, and Printed at <hi>Noremberg</hi> by <hi>Iohn Lankenberger.</hi>
+            </p>
+            <p>LONDON, Printed for E. E. and are to be ſold at the little ſhop at the Exchange. 1607.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174728:2"/>
+            <pb facs="tcp:174728:2"/>
+            <head>TO THE <hi>Reader.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Circle of the yeare is cloſed vp with Chriſtmas: to cele<g ref="char:EOLhyphen"/>brate vvhich time onely, (w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>h more magnificence and ſolem<g ref="char:EOLhyphen"/>nitie;) It is a cuſtome in the Courts of Kings, to make preparation for Maskes, Playes, and Reuolts. But the <hi>Jeſuites,</hi> (who are the only Reuellers in the Court of <hi>Rome</hi>) diſdaining to be tied to order, time, or ceremonie, haue taken vpo<g ref="char:cmbAbbrStroke">̄</g> them to play the Lordes of Miſſe-rule, in the very midſt of this yeare 1607. as if it had bin their yeare of <hi>Iubile.</hi> At <hi>Lyons</hi> in <hi>Fraunce,</hi> did they in perſon Act a Play: at <hi>Min<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken</hi> in <hi>G<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>many,</hi> did they ſet forth a
+<pb facs="tcp:174728:3"/> Maske. The Play was full of State; the Maske full of Sratagemes: In the Play, a newe God-amightie had a part; in the Maske, the old Diuell was a Torch-bea<g ref="char:EOLhyphen"/>rer. The Play was ſtuft with blasphemy, irreligion, &amp; ſcandall: the Maske was ap<g ref="char:EOLhyphen"/>parrelled with ſuites of Luſt, prophanati<g ref="char:EOLhyphen"/>on, bloud and Treaſon. Thunder claps from heauen ſtrucke the Players, yet the <hi>Ieſuites</hi> called them Plaudities. A com<g ref="char:EOLhyphen"/>mon Hangman deſrobed the Maſquers, and diſcouered them to bee diuells, yet the <hi>Ieſuites</hi> ſay they are Saints. Since then God himſelfe brands this Ieſuited flocke with letters of infamie, to ſhew it is none of his: and ſincs (as being giuen ouer) they ſet markes on their owne fore<g ref="char:EOLhyphen"/>beads, to make them odious and ridicu<g ref="char:EOLhyphen"/>lous to the world: vvho vvould not de<g ref="char:EOLhyphen"/>teſt their pride? vvho does not (euen at hand) ſee their dovvnefall? The ſcarlet-coloured beaſt of <hi>Rome,</hi> hath had many
+<pb facs="tcp:174728:3"/> of her heads ſtrucke off: ſhee hath wal<g ref="char:EOLhyphen"/>ked vpon a number offeete, vvhich gaue her ſtrength to tread vpon the neckes of Kinges, but a number of thoſe feete are fallen lame, many haue beene cut off, and thoſe vpon vvhich ſhee novv ſtands, are but vveake: for your <hi>Franciſtan, Domi<g ref="char:EOLhyphen"/>nicans, Benedictines, Mendicants, Jaco<g ref="char:EOLhyphen"/>bines,</hi> and many a rabbie more of the Romiſh Armie, vvere (nor long ſince) the very ſinevves to the legs of that Papall Monſter, and the ribs to her body: but novv, like leaues ſhaken by the breath of Autume, hang they quiuering and haue but little hold, elſe lye they ſcattered on the earth, the tree from vvhich they drop tottering euery day more and more, and ready with her fall to bruiſe them for euer. The <hi>Ieſuites</hi> onlie are the Pillers, againſt which ſhee leanes: if they ſhrink, ſhee ſhrinkes for euer. And that their great &amp; ſudden ſwelling vp in the, <hi>Romaine</hi> Sea,
+<pb facs="tcp:174728:4"/> ſhall be but as bubbles in a Riuer? who doth not ſee it? who doth not laugh at it: <hi>France</hi> did of late driue them out of her dominions, yet like the Horſe of <hi>Troy,</hi> were they pulled in againe: and ſhe feares alreadie they will proue as fatall: <hi>Italia</hi> knovves them to be Machiauels <hi>Germany</hi> to be monſters: <hi>Spaine</hi> to be diuels: <hi>Portu<g ref="char:EOLhyphen"/>gal</hi> knovves the<g ref="char:cmbAbbrStroke">̄</g> to be bloudily ambitious (vvitneſſe <hi>Sebastian,</hi> vpon vvhom, they vvould haue ſtrangly vvrought.) <hi>Ireland</hi> knovves them to be ſeditious: <hi>Scotland</hi> knovves them to be treacherous, &amp; <hi>Eng<g ref="char:EOLhyphen"/>land</hi> knovves them to be <hi>Ieſuiets.</hi> All cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tries you ſee haue taken their pictures yet becauſe al countries haue not ſeene them, in all their true collours: I preſent to the vvhole vvorld this one Protraiture more, vvhich you may behold a far off, becauſe it is penciled dovvne in bloud.</p>
+            <trailer>
+               <g ref="char:V">Ʋ</g>ale</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174728:4"/>
+            <head>A MASKE OF FIVE Ieſuites.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Neſt of <hi>Ieſuites,</hi> (like a bed of Serpents, that when their egges are hatched, are full of no<g ref="char:EOLhyphen"/>thing but poiſon) is now opened to the eyes of the world, and their veni<g ref="char:EOLhyphen"/>mous tallants haue drawne bl<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d (almoſt) of all the Kingdomes in Chriſtendome. Their feathers, which at the firſt comming forth were thin, (as not able to couer their backes) weake and ſickely (as not <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f force to make them flie) are now ſpread into large, mightie, and dreadfull wings; ſo that they dare preſume to kéepe flight with the Falcon, and to pearch ſide by ſide with the princely Eagle: the beating of their
+<pb facs="tcp:174728:5"/> pinneons in the ayre is ſo lofty and ſo lewd, that it affcighteth all Nations, who know not of what breeding they are.</p>
+            <p>But God (who with a ſpurne of his foote, can at his pleaſure breake the neckes of proud and am<g ref="char:EOLhyphen"/>bitious climbers) hath a little (of late) ſhaken them, the wings of their inſolence hath hee plucked, (and will in time turne them out naked, and diſcouer their vileneſſe. This <hi>Inieſuated Fratry,</hi> thinke themſelues worthy to be companions with Kings, they looke to bee Lordes ouer Cities, to controle States with the bending of their browes, to bee as Gods Porters vpon earth, carrying in their hands the keyes of heauen, and to let in none but whom they ſhall like. But liſten vnto mee (O you peo<g ref="char:EOLhyphen"/>ple of the <hi>Germaine Empire,</hi> and all the Nations vpon earth beſide) liſten vnto mee, and I will in few words giue you the pedegrée of theſe <hi>Ieſuiticall Aſpirers</hi> that comparing the baſeneſſe of their birth with their preſent bearing themſelues, and their brauings, becauſe they ſerue in chiefe place vnder the <hi>Romaine Empire,</hi> you may take héede how you let ſuch dangerous enemies into your gates, or lay ſuch ſnakes in your warme boſomes.</p>
+            <p>Vnderſtand therefore, that <hi>Ignatius Layola,</hi> a Spaniard, (borne in <hi>Biſcay</hi>) was the father and firſt founder of them. This <hi>Layolo</hi> being befiedg<g ref="char:EOLhyphen"/>ed (among others) by the French, happened in an aſſault to be wounded in the thigh with a Gunne, and ſo grieuouſly to bee hurt in the other, that at
+<pb facs="tcp:174728:5"/> length hee was taken priſoner. But being not worth the kéeping, (for hee had neither any com<g ref="char:EOLhyphen"/>mand among the Spaniards, hee was of no birth that might challenge a ranſome, neither had hee a<g ref="char:EOLhyphen"/>ny friends that were able or willing to lay downe money to redéeme him) he was in the end therefore ſet frée for nothing. Being then (as he was) lame and vnfit for the warres, he thought himſelfe a man not fit for the world; and thereupon making away all the goods and wealth which hee had, he betooke himſelfe to the Church of our Ladie in <hi>Mount Ser<g ref="char:EOLhyphen"/>rat,</hi> reſoluing there to mortifie the fleſh, and to de<g ref="char:EOLhyphen"/>dicate the remainder of his daies to the ſeruice of deuotion.</p>
+            <p>Whilſt thus he continued, it is ſaid, that hee had a viſion (forſooth) of a ſtrange light, which deſcen<g ref="char:EOLhyphen"/>ded from heauen and ſhonevpon him; wrapt with which apparition, hee vowed to make a pilgri<g ref="char:EOLhyphen"/>mage to <hi>Ieruſalem,</hi> and to kiſſe the Sepulchre of Chriſt. Hée did ſo, and then returned into <hi>Spaine,</hi> where hee gaue himſelfe (being but young) to his booke, knowing that the authoritie of learning would carry him out in the enterpriſe, which in his minde he had to himſelfe purpoſed. From <hi>Spaine</hi> he came into <hi>France,</hi> and ſtudied ten yeares in <hi>Pa<g ref="char:EOLhyphen"/>ris:</hi> in which ſpace, hee got companions and fel<g ref="char:EOLhyphen"/>lowes, who trauailed with him backe againe into his owne Country: from whence, hee went to <hi>Rome,</hi> and obtained the <hi>Popes</hi> Bull for him and his fellowes, (or rather diſciples) to goe on pilgri<g ref="char:EOLhyphen"/>mage
+<pb facs="tcp:174728:6"/> to <hi>Ieruſalem.</hi> But the <hi>Turkes</hi> and <hi>Vene<g ref="char:EOLhyphen"/>tians,</hi> being at that time in warres together, they went no further then <hi>Venice,</hi> and were there made <hi>Shorne-prieſts,</hi> (being then but ſeauen in number) by the <hi>Popes</hi> Legate, who lay Reſident in <hi>Venice.</hi> Afterward, Pope <hi>Paulus</hi> the third con<g ref="char:EOLhyphen"/>firmed their order, preuided their number ſhould neuer excéede thréeſcore. Yet afterwardes, his Holineſſe vpon better conſideration decreed, that their number ſhould not bee ſtinted, nor that their Order (which hee called the <hi>Societie of Ieſu</hi>) ſhoulde bee tyed to any certaine place of abi<g ref="char:EOLhyphen"/>ding. Thus was a poore lame Souldier the roote of this Trée, which now ſpreades into ſo ma<g ref="char:EOLhyphen"/>nybranches: and becauſe they were aſhamed to bee called <hi>Ignatians,</hi> or <hi>Layolons,</hi> after their fa<g ref="char:EOLhyphen"/>thers name, (hee being ſo poore) they tooke vpon them a more haughty title, and would néedes bee called <hi>The ſocietie of Ieſus,</hi> that is to ſay, <hi>Ie<g ref="char:EOLhyphen"/>ſuites.</hi>
+            </p>
+            <p>When they lay thus in the cradle of their rea<g ref="char:EOLhyphen"/>ring, they vowed a perpetuall and willing po<g ref="char:EOLhyphen"/>uertie, to fight as Souldiers vnder the Banner of the Croſſe, to bée chaſte, to exerciſe workes of charitie, and onely to labour about the win<g ref="char:EOLhyphen"/>ning of ſoules for heauen. Theſe were at firſt their lawes, to theſe were they ſworne. But the windes haue ſhifted their places ſince, and now this <hi>Societie of Ieſus,</hi> vtterly renounce the ſocie<g ref="char:EOLhyphen"/>tie of Ieſus; they row vp and downe nowe no
+<pb facs="tcp:174728:6"/> more in the ſhallow and narrow ſtreames of po<g ref="char:EOLhyphen"/>uertie, but hoiſt vp luſtie and loftie ſayles in the Seas of Auarice and Ambition. Now birdes of their owne feather, doe abhorre their ſinging: for the <hi>Secular Seminaries</hi> (who drinke of the ſame cuppe, and the ſame draught, which ſhee who ſits vpon the Purple Beaſt, and poures out to them both, and who march in the ſame ranke with the <hi>Ieſuites</hi>) haue (and doe euery day more and more) in bookes publikely printed, vtterly condemne them. They ſay the <hi>Ieſuites</hi> are bloody, and ſtir<g ref="char:EOLhyphen"/>rers vp ſedition in Chriſtian Kingdomes, that they are lyars, that they are proude, that they de<g ref="char:EOLhyphen"/>light in rich apparell, that they are wherried vp and downe in Coaches, that they haue traines of followers at their héeles, as if they were great Earles, or men of blood, that they are Epicures, and make their belly their god, that they are laſci<g ref="char:EOLhyphen"/>uious, and loue women, hauing Gentlewomen for their chamber-maides, and young wenches for their bedfellowes, that they are now the onely ſtateſmen in the world, and deale in no other af<g ref="char:EOLhyphen"/>faires but the titles of Princes, the genealogies of Kings, the liues of ſucceſſion, the beſtowing of Scepters where they pleaſe, that they are théeues, murtherers, Machiauells, and the onely couſeners of the whole world.</p>
+            <p>Thus (O you ſubiects of the Dukedome of <hi>Bauaria</hi>) haue I ſhewed vnto you the pictures of theſe <hi>Ieſuites</hi> as they went at the firſt, and
+<pb facs="tcp:174728:7"/> and haue pulled off the Vizards vnder which they haue gone maſked a long time ſince, and haue now their faces diſcouered and made bare by ſome of their owne fellowes.</p>
+            <p>Sithence then that with their owne fingers they lay ſpottes of inke vpon one anothers chéekes, it ſhall bee no ſhame for mee, (nor let it bee held as a malitious act of my penne) neyther can it ſtraine their Societie with more diſhonour then alreadie ſtickes vpon them for other crimes) if Idraw forth to the life and to the trueth, the monſtrous and vg<g ref="char:EOLhyphen"/>ly ſhapes of thoſe impieties, which of late they haue begotten: and theſe they are.</p>
+            <p>In the Citie of <hi>Miniken,</hi> theſe <hi>Ieſuiticall Mask<g ref="char:EOLhyphen"/>ers,</hi> vſed to walke vp and downe the ſtreets dayly: ſuch granitie was in their loekes, ſuch holynes hung vpon their lippes, and ſuch authoritie wayted on their preſence: that in all places where they came, heades ſtood bare before them, knees were bowed vnto them, and the vpper hand was giuen them; their order required no leſſe, the ſhewe which they made of <hi>Religion</hi> deſerued aſmuch. Theſe obſer<g ref="char:EOLhyphen"/>uances which all men beſtowed vpon the<g ref="char:cmbAbbrStroke">̄</g>, made the<g ref="char:cmbAbbrStroke">̄</g> ſwell into pride, and to deſire more to be obſerued: ſo that they who were the markes for all eyes, be<g ref="char:EOLhyphen"/>gan in the end to caſt their eies vpon the Citie with more curiouſnes, and to marke others. By which meanes, the flames of a burning Luſt, caught hould of fiue of theſe wanton gazers. They willing lie embraced the heat of it, and added what fewell fleſh
+<pb facs="tcp:174728:7"/> and bloud could make to nouriſh the fire: in ſomuch, that the eye which yeſterday was enamoured of one beauteous face, to day dotes vpon a ſecond, and the next day is almoſt blind which immodeſty, ſtareing on a third. By which meanes, fiue <hi>Ieſuites</hi> became fiue laſciuious Louers: &amp; no fewer the<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Six<g ref="char:EOLhyphen"/>teene Virgins</hi> muſt ſacrifice their chaſt bodies, to ſatiſfie their luſt. How to ſkale theſe Maiden-forts, many Stratagems were inuented: to court the young Damoſels was hard, but to conquere them, ſeemed more hard, and almoſt impoſſible. To ſom<g ref="char:EOLhyphen"/>mon them to a wanton parley, ſtood not with the dignitie of the <hi>Ieſuiticall</hi> profeſſion, to be Suitors in the way of mariage, was againſt the orders of their ſociety, and to court ſo many openly, had bin to their euerlaſting ſcandall. Some newe, ſome ſea<g ref="char:EOLhyphen"/>cret and ſome ſtrange nets, muſt therefore be ſpread to take theſe Doues. In the end by degrees (ſome at one time, ſome at another) were they caught in the ſnares that were laide for them: for vnder pre<g ref="char:EOLhyphen"/>tence either of confeſion, or to receiue inſtructions in ſome pointes of their religion, were theſe Mai<g ref="char:EOLhyphen"/>dens drawne priuely firſt to the Chambers of their Lecherous Confeſſors: and after (by the ſweetnes of their alluring tongues) to bee viſitants of this <hi>New Familie of Loue.</hi>
+            </p>
+            <p>Which forelocke of occation, one of the princi<g ref="char:EOLhyphen"/>pall of theſe holy Fathers one day taking hold of, when he had in his company, one of the faireſt of the <hi>Sixteene:</hi> whome they had marked out for ſpoyle
+<pb facs="tcp:174728:8"/> and diſhonour: thus (the dore being faſt locked) did his luſt attempt to aſſayle her.</p>
+            <p>Sweeteſt Maiden, wonder not that my hand trembleth, feeling thus the ſoft touch of yours, nor thinke it ſtrange, if either I bluſh or looke pale, whileſt I embrace your delicate and tender body: let neither my lookes affright you (beautifull Vir<g ref="char:EOLhyphen"/>gin) which I feare are wilde, (as are my thoughts) nor this forcible holding (but not rough laying handes vpon you) put your heart in doubt that you are beſet with danger. Aſſure your ſelfe (pretie ſoule) that the Infant in the mothers boſome is not more ſafe, then you are in my chamber: for I muſt tell you (and you muſt beleeue I ſpeake truth, be<g ref="char:EOLhyphen"/>cauſe my words flow from the zeale and ardor of true affection) I loue you moſt intirely; at your eies did I long agoe kindle a fire. which I haue ſtroue to ſmother, but the more aſhes I throwe vpon it to couer the ſame, the more vehemently doeth it break forth to conſume me: vnleſſe the ſame eye that hath wounded ſend forth pittie. It is your beautie (moſt delicate creature) that begets theſe woundes: nor am I aſhamed that one of my order and coate, and ſouldier to thoſe colours of the Church, vnder which I ſerue, ſhould thus reuolt from the diſcipline to which he is ſworne: for Kinges forſake their digni<g ref="char:EOLhyphen"/>tie, and forget themſelues to win what I ſeeke: the loue of a woman blindeth the eyes of deuotion, brid<g ref="char:EOLhyphen"/>leth the head of authoritie, beateth downe ceremo<g ref="char:EOLhyphen"/>nie, makes a foole of wiſdome, and a mad-man of
+<pb facs="tcp:174728:8"/> ſon. Pardon me therefore if I ſubmit my ſelfe, to a poure ſo vniuerſall, and bee contented to yéelde vnto my affections, ſince they fight not to triumph ouer you, but to be your flanes. If you fears to commit the ſinne, I can abſolue you; if you feare your parents anger, I haue ſtrength (by vertue of my Order) to defend you from thom; if you feare the ſcandall of the world, I can plucke out the ſtings of enuie, that they ſhall not hurt you, and ſtop vp the mouth of ſlander, that ſhe ſhall not dare to name you.</p>
+            <p>With theſe and ſuch other forces of ſpéeche did this holy diuell ſet vpon her, that at the length, what by violent detaining her day and night in his chamber, and what by the temptation of gifts, and hopes of promotion, ſhee yéelded, and became a ſlaue to his luſt: being a ſiſter ſo long to the Societie, that in the end ſhee proued great with childe of a young <hi>Ieſuite.</hi> During all which time, ſhe could neuer odtaine of her Louer, to ſée or ſend to her parents, or to goe forth into the Ci<g ref="char:EOLhyphen"/>tie, but was locked vp by him like a cloſe pri<g ref="char:EOLhyphen"/>ſoner.</p>
+            <p>And as this tyrannous inuader aſſulted her chaſtitie on the one ſide, and made ſpoile of it; ſo did the other foure by ſeueral parlées, onſets, ſtra<g ref="char:EOLhyphen"/>tagems, and treaſons, both ſet vppon the other maidens, and ouercome them. Fiftéene fellowes had ſhe more (in a ſhort time) that like lambes lay in the dennes of the Lion. The vailes of modeſty
+<pb facs="tcp:174728:9"/> were torne from before their faces; and they were glad to be ſtrumpets to thoſe, that (by profeſſion) were bound to be their fathers. They are now no more maidens, but holy-mens hariots; no more are they frée, but bond women to villaines. That loue, or rather that luſt which inticed them to ſell away their libertie, doeth now make their libertie more ſeruile then Turkiſh ſlauerie: for their chambers were vnto them like ſo many pri<g ref="char:EOLhyphen"/>ſons. They had the nightly embracements of their Louers, and in the day, the horrours of an afflicted conſcience. All of them were great with childe, and more great with cala<g ref="char:EOLhyphen"/>mitie.</p>
+            <p>Whereupon theſe infortunate wretches (that were neither maides, wines, nor widdowes, but were robbed of all honours due vnto wo<g ref="char:EOLhyphen"/>men) ſéeing to what baſe ſeruitute they were made ſubiects, and into what ſtrange miſerie they had fallen by their owne weakeneſſe, when ſo euer any of them could ſpie fit opportunitie, She wooed her Louer as hard (now that he had made ſhipwracke of her body) to detaine her no longer in that impriſonment, as before hee had wooed her to yéelde her bodie to his plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>She intreated, if ſhee might not be ſuffered to behold<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he face of her parents any more, nor to breathe that ayre in which ſhe was borne, that then hee would commit her to the handes of a<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:174728:9"/> hard hearted men, who (ſo they might not kill her) ſhould bee inioyned to ſet her vpon any for<g ref="char:EOLhyphen"/>reigne ſhoare, were it neuer ſo farre from her owne natiue Countrie. To theſe prayers did ſhe often adde teares, and with the teares did mingle kiſſes and embracements, the better to winne her libertie; but neither the one nor the other pre<g ref="char:EOLhyphen"/>uailing, all of them (though they ſeldome came together) had ſecret intents in their boſomes, to worke the meanes of their particular deliueries. Which being perceiued by their fiue Iaylers, (whoſe iealous eyes were alwaies fixed vppon them) they laid their heads together, how to eaſe their ſhoulders of that burthen, which they had laid ſo heauy vpon themſelues. They could haue béene contented to bee rid of their gueſts, but all the daunger would haue beene when they had beene rid of them. To ſend them to the Citie, had beene to call ſo many executioners to cut them in peeces (for their Rapes) as were people in the Citie. To deliuer them backe to their parents, was to deliuer the inſelues to Lyons that had beene robbed of their young ones. To conuey them into any other Countrey, was aſſured dan<g ref="char:EOLhyphen"/>ger, and no policie; for ſo might their infamie ſlie round about the world. No path therefore had they that led vnto ſafetie but one, and that was the way that Murther vſeth to walke in. A Tragedie muſt conclude all; they
+<pb facs="tcp:174728:10"/> fiue were actors enough to beginne it and end it. They fiue ſhould write but fiue acts, euery man his act, though the Epilogue of all ſhould bee their damnations.</p>
+            <p>This Tragedy was plotted in the day time, and was to be preſented in the night: darkeneſſe was appointed to hang the Stage all in blacke of her owne making; luſt to ſpeake the Prologue, murther to hold the booke, and to prompt them; the diuels to be the Chorus, <hi>Ieſuites</hi> the Tragedians, Innocents to be ſlaine, God vowed to be the re<g ref="char:EOLhyphen"/>uenger, and the Angells of heauen (who were ſworne to publiſh it) the ſpectators.</p>
+            <p>This <hi>Blacke-worke</hi> being thus put to weaue<g ref="char:EOLhyphen"/>ing in their braines, they partie caſting a thou<g ref="char:EOLhyphen"/>ſand wayes how with moſt conuenience to finiſh it. And as theſe bloudie Prieſtes were preparing to ſet forth their vnhallowed ſacrifice on the one ſide: ſo on the other, the Parents of theſe <hi>Sixteen</hi> vnhappie Children, did nothing but ſpend their dayes in ſearching, and their nights in paſſionate lamentations, for the loſſe of their faire daught<g ref="char:EOLhyphen"/>ters.</p>
+            <p>The Citie could tell no newes of them; the whole Dukedome knewe nothing of their miſ<g ref="char:EOLhyphen"/>fortune: the whole Empire of Ge<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ie, afford<g ref="char:EOLhyphen"/>ed no comfort to theſe who ſought for them. Yea oftentimes did theſe <hi>Fiue Hell-hounds</hi> h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e the complaintes of the Fathers and Mothers, and
+<pb facs="tcp:174728:10"/> beheld the teares of brethren and kinſfolke (as they walked by their doores,) yet made they but a mockery of all their ſorrowes: their heartes being hardned the more to keepe them ſtill as their Priſoners, by how much the more grieuous they ſaw their abſence was taken.</p>
+            <p>In the mean time, &amp; in the very <hi>Interim</hi> betwéen the plotting of their intended <hi>Tragedy,</hi> and the Acting of it; behold what a <hi>Watch man</hi> heauen had picked out to ſtand Centinell in the night of ſuch horred miſchiefe: a poore and ſilly man was ordained to confound theſe great <hi>Polliticians</hi> in their owne inuentions.</p>
+            <p>It happened that a <hi>Poſt</hi> (who vſed to ride with letters vp and downe the Country) being wearie with trauailing, came into the Church (of which theſe fiue <hi>Ieſuites</hi> had with others, the rule and authority) with purpoſe of deuotion. But his deuotion belike, being not ſo great as his weari<g ref="char:EOLhyphen"/>neſſe, he fell into ſo ſound a ſléepe, that the doores of the Church were locked vpon him, no man ſuſ<g ref="char:EOLhyphen"/>pecting that any creature had béene left within it. The nap he tooke was ſo long, that he waked not all the night following, till towards one or two of the clocke the next morning: at which houre, rubbing his eyes to looke what time of day it was, but ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing no light; at length he began to remember in what Inne he had taken vp ſo cold a lodging; and knowing it to be a Church, he pre<g ref="char:EOLhyphen"/>ſently
+<pb facs="tcp:174728:11"/> fell into a feare by reaſon of the place: his minde ranne vpon nothing but graues; which way ſoeuer he turned his head, hee imagined hee ſpied men and women ſitting in winding ſhéetes, with the knots of the ſhéetes nodding too and fro on their heads, as if they ſhooke with cold as well as himſelfe did: the leaſt noiſe he heard made him beléeue it was the voice of a ghoſt: if a mouſe did but ſtirre in the next pew, hee trembled as if hée had ſéene a ſpirit; hee often felt the bench vpon which he ſat, and thought verily it had béene a coffin, and did as often féele himſelfe round about his body, being no otherwiſe perſwaded, but that he was a dead man, and had no cloathes on, but ſuch as men haue that are buried. But to be ſure it was not ſo, he would ſpeake to himſelfe ſoftly, and knowing that he was certainely aliue, he lift vp his hands to heauen, which hee could not ſée by reaſon of darkneſſs, and praied coldly, (for the night was not warme) that God would (if it were his will) turne him out of his doores, hee ca<g ref="char:EOLhyphen"/>red not how ſoone. Sitting in this perplexitie, and conching downe lowe, but not daring to lift vp his head, yet ſweating with the very ſelfe ſame feare, which preſently made him ſhiuer as much againe. Behold hee heard the lockes of a doore flie backe, at which noiſe his very téeth chat<g ref="char:EOLhyphen"/>tered in his head with the terror. Anon he might heare the ſhufling of féete, and the lamen<g ref="char:EOLhyphen"/>table
+<pb facs="tcp:174728:11"/> ſound of a voyce, ſtrugling to vtter ſome<g ref="char:EOLhyphen"/>what, but he could not perfectly tel what, by rea<g ref="char:EOLhyphen"/>ſon as hee imagined, it was often ſtopt by ſome violence, whilſt it laboured to ſpeake.</p>
+            <p>The poore Poſt being not willing to die, hee knew not how, (for hee looked ſtill to be knocked on the head as he ſat) péered vp by little and little with his eyes, and ſpied round about the Church the glimpſe of a candle: the light put him into comfort, but the noiſe that followed it, went more colde to his heart, then the panges of death it ſelfe.</p>
+            <p>They that were thus entered into the Church ſo early, (for it was now about thrée of the clocke in the morning) were the fiue bloody Tragedi<g ref="char:EOLhyphen"/>ans: the <hi>Scaene</hi> was now on foote. The Maſke which the <hi>Ieſuites</hi> intended for this nights Re<g ref="char:EOLhyphen"/>uells, was now newly come in. The principall of them (of whom in the beginning of this diſ<g ref="char:EOLhyphen"/>courſe we ſpake firſt) being the chiefs Torch-bea<g ref="char:EOLhyphen"/>rer, for he led the way, &amp; carried a light before all the reſt. Thoſe that were to dance their laſt hea<g ref="char:EOLhyphen"/>uie meaſures hand in hand with death, were the firtéene young Damſells great with childe, who were thus led in one by one, (for more ſtate to the murther.) This firſt, (whoſe name was <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi>) being ſhe whoſe courting I told you of be<g ref="char:EOLhyphen"/>fore. Her did three of the <hi>Ieſuites</hi> (like three Fu<g ref="char:EOLhyphen"/>ries) hale in; two by drawing her violently by y<hi rend="sup">e</hi>
+               <pb facs="tcp:174728:12"/> armes, two behind her, driuing her as forcibly forward, with one of their handes euer and anon (as ſhe offered to cry-out) ſtopping her mouth, whilſt the fift Fiend held a candle before the Di<g ref="char:EOLhyphen"/>uell, and lighted the other Foure: who continued in this barbarous halling of the poore wretch, till they had draged her vp to the <hi>High Alter.</hi>
+            </p>
+            <p>The Poſt ventured to ſee all this, and could haue ſighed to ſee it: but that he feared the wind of his breath, would betray him. Now ſtood the miſerable condemned Priſoner on the Scaffold, where ſhee was to ſuffer: her executioners ſtood round about her there was no hope of a par<g ref="char:EOLhyphen"/>don, there was no helpe to ſaue her from the Block. The Lecherous Villaine, that had de<g ref="char:EOLhyphen"/>ſlowred her; was the firſt that bid her kneele downe: She with a trembling voice, and a pite<g ref="char:EOLhyphen"/>ous looke, aſking why, and deſiring to knowe in what ſhee had offended him, to bee thus torue in peices, and to be haled like a ſheepe to a ſlaugter-houſe. Her Rauiſher bid her bee patient, to vſe few words, not to dally with her foule, but to ſet<g ref="char:EOLhyphen"/>tle her thoughts to meete death like a Chriſtian: and demaunded of her, if ſhe could be content to dye. I am (quoth ſhe) content to dye; but I be<g ref="char:EOLhyphen"/>feech you my Lords, play not you the cruell hang<g ref="char:EOLhyphen"/>men, nor lay my blood vpon your reuer end heads. If God ſay this is my laſt houre, his meſſage is welcome: but bee not you the Murderers of an
+<pb facs="tcp:174728:12"/> Innocent Maiden. Oh I haue loſt the honour of that name amongſt you, which was as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare to me as life it ſelfe. Let me not l<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e my life amongſt you, leaſt you <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> too many ſinnes vpon your ſoules. I ſweare vnto you my Lordes, if you will giue me life, (it is a wretched gift which I b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gge at your handes, for it is a miſerie for me to liue) but if you will graunt me life, I will renounce my C<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y, forſake my Parents, flye from my kinred and acquaintance: or if I <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>te with any ſo vn<g ref="char:EOLhyphen"/>happy as to knowe me, I will deny my owne name, or if I cannot do that, yet will I neuer publiſhe yours, nor what you haue done vn<g ref="char:EOLhyphen"/>to mee. And you (moſt Holy Sir) that haue pulled the fruites of my Chaſtitie; looke vp<g ref="char:EOLhyphen"/>on mee with an eye of pittie: I coniure you by the Religion which you profeſſe, by your S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>i<g ref="char:EOLhyphen"/>etie, by the loue which at the firſt you <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are me, and by the Babe in my Wombe, of which you are the Father: ſpare mee (Oh ſpare mee!) if not for my owne ſake, (for happylie I haue wr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nged you, or <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not now gratious in your <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight) yet for the Infants ſake within mee, who euen ſtrugleth at this inſtant in my body, to get away, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hauing knowledge (I thinke) what is comming towards it: ſaue that which is part of your ſelfe, that neuer offended you.</p>
+            <p>Not a word which ſhee ſpake, but came
+<pb facs="tcp:174728:13"/> forth with ſuch abundance of teares, that euen the Marble in which thee kneeled, ſweate droppes of water: becauſe it bare vppe men that were harder then that on which they trode.</p>
+            <p>In this manner did ſhee pleads for life: in this manner did ſhee complaine.</p>
+            <p>But they that had made a Couenant with Hell (which they could not now breake,) re<g ref="char:EOLhyphen"/>membred what ſtate of daunger they ſtoode in, if ſhee and the reſt liued: and therefore one of them caſting a Corde a bout her neck, to pull her body downe to the ground: the reſt held her, whileſt hee that had before the vſe of her faire bodie, was now the deſtroyer of it; and with a greate Iron Bullet, beate out her braines.</p>
+            <p>This firſt <hi>Scaene</hi> of Death being Acted, the reſt of the big bellied Damoſells, were in the ſame manner fetched forth of their Chambers, which had beene their Iayles, and were ledde to the Church, to bee married to Death. Their lamentations were a like, becauſe their wronges were a like: but all pittie and pyetie being hid in the darkneſſe of ſo foule a night, and crueltie vſurping their hearts, of purpoſe to giue grace to ſo hort<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a Tragedie, and to make it more full: in the end, the laſt of the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e cloſed vp the <hi>Ieſuites Play.</hi> Whileſt in
+<pb facs="tcp:174728:13"/> ſtead of an <hi>Epilogue,</hi> their bodies which as they were murdered, were throwne behind the Alter, and were in one graue behinde the Alter buried.</p>
+            <p>By this time the Sunne (who cannot abide to bee preſent at murders) aroſe, and looked red with anger, that his pale ſiſter (the Queene of the night) ſhould ſuffer ſuch damned im<g ref="char:EOLhyphen"/>pieties to bee done in her dominion: chée<g ref="char:EOLhyphen"/>ring therfore the miſerable Poſt, with his gold<g ref="char:EOLhyphen"/>en beames, which hee ſent into the Church to reuiue him, that was more than halfe dead with the ſight which he had ſeen. At the length, when the Murderers were fled to their neſts, like Owles at the approching of day, his light both called vp the morning, and called out the poore fellowe out of the polluted Temple, (who with his hayre halfe an ende) went home and related to his Hoſt the circumſtance of all thinges, in which hee had beene the one<g ref="char:EOLhyphen"/>ly ſad ſpeetator.</p>
+            <p>The Hoſt vpon this relation, tooke the Poſt along with him to the Citizens houſe, who had loſt his Daughter (whoſe name was <hi>Elizabeth:</hi>) the Father (albeit his childe, whome he loued déerely, had béene for a long time miſſing) being informed of the bloodie Night-worke of the <hi>Ieſuites,</hi> woulde hardlie beléeue, that men ſo reue<g ref="char:EOLhyphen"/>renced
+<pb facs="tcp:174728:14"/> for their Religion, coulde deſcende into ſuch baſeneſſe and godleſſe acts.</p>
+            <p>To the Magiſtrate therefore was the Poſt carried, before whome hee conſtant<g ref="char:EOLhyphen"/>ly <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing in his former diſcourſe, was notwithſtanding committed to priſon, be<g ref="char:EOLhyphen"/>cauſe a matter of ſuch moment was not to bee publiſhed for trueth, from the report of ſo meane a perſon, when it concerned the liues and repulation of men ſo great as the <hi>Ie<g ref="char:EOLhyphen"/>ſuites.</hi>
+            </p>
+            <p>The fellow being thus committed, the Magiſtrates went diſcréetely to worke, and at laſt, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iring to the Church, which had béene ſtained with the blood of Innocents, and made a Shambles: vppon ſome far<g ref="char:EOLhyphen"/>ther preſumptu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> probabilities, the ground behinde the Altar was broken vp, and the murthered bodies found, as the Poſt had diſ<g ref="char:EOLhyphen"/>couered.</p>
+            <p>Thereupon the <hi>Ieſuites</hi> were ſent for to the B<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e-houſe, and after many inquities, and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, the Poſt like<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſe <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ua voce</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing to their fa<g ref="char:EOLhyphen"/>ces, and accuſing th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>; the fact was openly con<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>: for which they were by order of the lawes of the Countrie, adi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed to die: the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and death being th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.</p>
+            <pb facs="tcp:174728:14"/>
+            <p>All the fiue <hi>Ieſuites</hi> being placed in a Wa<g ref="char:EOLhyphen"/>gon, and drawne through the Citie, had their fleſh at nine ſeuerall times pinched with hot burning pincers from them; and in three ſe<g ref="char:EOLhyphen"/>uerall parts of their bodies, great peeces ſli<g ref="char:EOLhyphen"/>ced away with kniues; then were their arme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and legges broken on the Wheele, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were they left languiſhing till they expi<g ref="char:EOLhyphen"/>red: the Poſt being rewarded (for his watching all night) out of the common purſe of the Citie.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
